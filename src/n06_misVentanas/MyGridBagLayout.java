@@ -1,4 +1,4 @@
-package misVentanas;
+package n06_misVentanas;
 
 import javax.swing.*;
 import java.awt.*;

@@ -32,7 +32,10 @@ public class PanelJuego extends JPanel implements Runnable {
     public void run() {
 
         while(gameThread !=null) {
-            System.out.println("Ciclo de juego esta ejecutando");
+
+            // 1 ACTUALIZAR INFORMACION DE LA POSICION DEL PERSONAJE
+
+            //2 DIBUJAR EN LA PANTALLA LA ACTUALIZACION DEL PERSONAJE
         }
 
     }

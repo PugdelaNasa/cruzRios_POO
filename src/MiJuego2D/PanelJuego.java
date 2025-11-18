@@ -74,6 +74,7 @@ public class PanelJuego extends JPanel implements Runnable {
         g2.setColor(Color.white);
         g2.fillRect(playerX, playerY,tileSize , tileSize);
         g2.dispose();
+        System.out.println("Hola");
 
     }
 }
